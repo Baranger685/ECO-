@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">532673379342</string>
+    <string name="google_api_key" translatable="false">AIzaSyAj3b9TlPSjCXJ98UyfZ1po_hHGKtqhK4w</string>
+    <string name="google_app_id" translatable="false">1:532673379342:android:d597bc9165df3241a6505f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAj3b9TlPSjCXJ98UyfZ1po_hHGKtqhK4w</string>
+    <string name="google_storage_bucket" translatable="false">recycleme-e2934.appspot.com</string>
+    <string name="project_id" translatable="false">recycleme-e2934</string>
+</resources>
